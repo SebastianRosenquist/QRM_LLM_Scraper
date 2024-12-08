@@ -8,3 +8,7 @@ sentence_transformers==2.2.2
 chromadb==0.4.12
 ipython==8.14.0
 llama-stack
+langchain
+torch
+transformers
+ipython
